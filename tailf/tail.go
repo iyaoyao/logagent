@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/astaxie/beego/logs"
-	"github.com/hpcloud/tail"
+	logs "github.com/Sirupsen/logrus"
+		"github.com/hpcloud/tail"
 )
 
 const (
