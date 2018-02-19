@@ -1,0 +1,8 @@
+{
+  "log_level":true,
+  "log_path":"",
+  "chan_size":1000,
+  "kafka_addr":"127.0.0.1:9092",
+  "etcd_addr":"localhost:2379",
+  "etcd_key":"/logagent/nginx/log"
+}
